@@ -69,6 +69,8 @@
 
 
 ##Communities
+* [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
+* [卡饭网](http://www.kafan.cn) - 计算机安全,杀毒软件交流中心
 
 ##Dry goods
 * [Code Guide](http://codeguide.co) by @mdo concluded some standards for developing flexible, durable, and sustainable HTML and CSS.
@@ -85,32 +87,34 @@
 * [IT] [CSDN](http://www.csdn.net) 是中国最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
 * [IT] [Linux中国](http://linux.cn) 是一家创立于2003年的国内开源社区，主要关注方向在 Linux 推广、Linux 技术研究、Linux 业界事件的传播。Linux 中国包括网站、微博、微信和邮件列表等平台
 * [IT] [开源中国 ](http://www.oschina.net) 是目前中国最大的开源技术社区
-* [IT] [卡饭网](http://www.kafan.cn) 计算机安全,杀毒软件交流中心
 * [IT] [InfoQ](http://www.infoq.com) Facilitating the spread of knowledge and innovation in professional software development.
-* [轻单](https://qdan.me)
+* [轻单](https://qdan.me) - 发现一个更轻的世界，以最便捷的方式分享知识，并瞬间获取他人的经验。
+* [IT] [WooYun知识库](http://drops.wooyun.org) - 最严肃的安全原创平台
 
 ##Github projects
 
 ##Online Tools
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
 * With [ASCIIFlow Infinity](http://asciiflow.com) you can draw infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
-* [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-* [jsPerf](https://jsperf.com) aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
-* [JS Bin](http://jsbin.com) is an open source collaborative web development debugging tool.
-* [CodePen](http://codepen.io) is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
-* [CSSDesk](http://www.cssdesk.com) - Online CSS Sandbox
+* [RegExp] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+* [JS] [jsPerf](https://jsperf.com) aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
+* [JS] [JS Bin](http://jsbin.com) is an open source collaborative web development debugging tool.
+* [CSS] [CodePen](http://codepen.io) is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
+* [CSS] [CSSDesk](http://www.cssdesk.com) - Online CSS Sandbox
 * [Cmd Markdown](https://www.zybuluo.com) 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 * 此 [在线 Ping 工具](http://serve.netsh.org/pub/ping-tool) 使用位于美国的服务器帮助你 Ping 得某些网站的 IP 地址，以方便获得正确的 IP 或进行其他事宜。
-* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
+* [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [Compile and Execute your favorite programming languages](http://www.compileonline.com) online
-* [Lorem Ipsum](http://www.lipsum.com)
-* Generate pure CSS3 [On/Off flipswitches](https://proto.io/freebies/onoff) with animated transitions.
+* Get [Lorem Ipsum](http://www.lipsum.com) from here.
+* [CSS] Generate pure CSS3 [On/Off Flipswitches](https://proto.io/freebies/onoff) with animated transitions.
 * With [SpritePad](http://spritepad.wearekiss.com) you can create your CSS sprites within ~~minutes~~ seconds. Simply drag & drop your images and have them immediately available as one PNG sprite + CSS code. No fiddling in Photoshop, no manual assignment of CSS styles. **Tip:You can change the color of the canvas by your browser's Inspect Element function.**
 * [百度云网盘搜索引擎](http://so.baiduyun.me)
 * [百度脑图（KityMinder](http://naotu.baidu.com) - 控制创意，如此简单
 * [奇云测](http://ce.cloud.360.cn)，免费提供ping检测，get检测，DNS劫持检测和网站打分等服务，努力打造最干净的网站检测平台。**服务范围：中国大陆**
 * [Font Squirrel](http://www.fontsquirrel.com), [Web Font Generator](https://www.web-font-generator.com), [Fontie](https://fontie.flowyapps.com) all provide useful online webfont generator.
 * [Hemingway App](http://www.hemingwayapp.com) makes your writing bold and clear.
+* [HTML] Type HTML in [Real-time HTML Editor](http://htmledit.squarefree.com), and it will magically appear in the exhibition frame.
+* [Create LaTeX tables online](http://www.tablesgenerator.com)
 
 ##Tutorials
 * [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
@@ -121,4 +125,5 @@
 * [Git Reference](http://gitref.org) is meant to be a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the type of operation you may be trying to do, and will present the common options and commands needed to accomplish these common tasks.
 * [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
 * [Laravel Recipes](http://laravel-recipes.com) organized by category.
+* [DIY] [The DIY Cheapskate Laptop Stand](http://theclosetentrepreneur.com/wp-content/uploads/2008/11/diycheapskatelaptopstand.pdf)
         
