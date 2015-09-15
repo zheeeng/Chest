@@ -5,25 +5,25 @@
 
 * [Algorithm](#algorithm)
 
-* [Application recommendations](#application-recommendations)
+* [Application Recommendations](#application-recommendations)
 
 * [Blogs](#blogs)
 
 * [Books](#books)
 
-* [Cheat sheets](#cheat-sheets)
+* [Cheat Sheets](#cheat-sheets)
 
-* [Chrome extensions & apps](#chrome-extensions--apps)
+* [Chrome Extensions & Apps](#chrome-extensions--apps)
 
 * [Communities](#communities)
 
-* [Dry goods](#dry-goods)
+* [Dry Goods](#dry-goods)
 
-* [Explore webistes](#explore-webistes)
+* [Explore Webistes](#explore-webistes)
 
-* [Github projects](#github-projects)
+* [Github Repos](#github-repos)
 
-* [Online tools](#online-tools)
+* [Online Tools](#online-tools)
 
 * [Resources](#resources)
 
@@ -33,7 +33,7 @@
 
 ##Algorithm
 
-##Application recommendations
+##Application Recommendations
 
 ##Blogs
 * [Ruan Yifeng](http://www.ruanyifeng.com/home.html)'s Personal Website
@@ -46,17 +46,20 @@
 * 土木坛子 - [谭智军](https://tumutanzi.com)的个人网站
 * Peter's Corner - [Peter Wang](http://happypeter.github.io/), an Open Source enthusiast. This site is dedicated to providing information about him and what he does.
 * Keep Writing Codes - [刘家财](http://liujiacai.net) - 分享与交流，Java、Clojure、Javascript、Python、算法
+* [Zach Holman](http://zachholman.com) - Built shit at GitHub for awhile. (Former Github employee)
 
 ##Books
 
-##Cheat sheets
+##Cheat Sheets
 * [PHP] [Laravel] [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca) , Codes , function , methods of laravel framework
 * [Vim] A mobile friendly [VIM cheat sheet](http://vim.rtorr.com)
 * [Git] [Git cheat sheet](http://itmyhome.com/git-sheet)
+* [GitHub] A collection of cool hidden and not so hidden features of Git and GitHub. This [GitHub Cheat Sheet](http://git.io/sheet) was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://www.confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 * [HTML] [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref)
-* [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) 4.4.0
+* [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
+* Emoji emoticons listed on this [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com) supported on GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings.
 
-##Chrome extensions & apps
+##Chrome Extensions & Apps
 * [App] Supercharge your API workflow with [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)! Build, test, and document your APIs faster. More than a million developers already do.… **Here recommend a more convenient and light old version for [Postman v0.8.16](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm).**
 * [App] [Chrome MySQL Admin](https://chrome.google.com/webstore/detail/chrome-mysql-admin/ndgnpnpakfcdjmpgmcaknimfgcldechn) provides you the administration GUI of MySQL server. It is like phpMyAdmin, Sequel Pro.
 * [Extension] [Cool Clock](https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce) is an extension fully loaded with tons of useful time-related features... But the best part is, it is totally COOL.
@@ -70,18 +73,17 @@
 * [Extension] Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 
-
-
 ##Communities
 * [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
 * [卡饭网](http://www.kafan.cn) - 计算机安全,杀毒软件交流中心
 
-##Dry goods
+##Dry Goods
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by @Eric Steven Raymond & Rick Moen. You can get [the Traditional Chinese version](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) and [the Simplified Chinese version](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md).
 * [Code Guide](http://codeguide.co) by @mdo concluded some standards for developing flexible, durable, and sustainable HTML and CSS.
 * [Daniel Miessler's thoughts](https://danielmiessler.com) on technology, philosophy, infosec, politics, reading, writing, design, curiosity, productivity, beauty, and happiness.
 * [码农周刊](http://weekly.manong.io) 是一份专为程序员打造的IT技术周刊
 
-##Explore webistes
+##Explore Webistes
 * [Cool] [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
 * [IT] [稀土掘金](http://gold.xitu.io) 挖掘最优质的互联网技术
@@ -95,7 +97,8 @@
 * [轻单](https://qdan.me) - 发现一个更轻的世界，以最便捷的方式分享知识，并瞬间获取他人的经验。
 * [IT] [WooYun知识库](http://drops.wooyun.org) - 最严肃的安全原创平台
 
-##Github projects
+##Github Repos
+* [github/markup](https://github.com/github/markup) This library is the first step of a journey that every markup file in a repository goes on before it is rendered on GitHub.com.
 
 ##Online Tools
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
@@ -130,9 +133,10 @@
 ##Tutorials
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
 * [Linux] 著名的 《[鳥哥的 Linux 私房菜](http://linux.vbird.org)》
-* [Python][Git][JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 提供Python, Git, Javascript教程
+* [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 提供Python, Git, Javascript教程
 * [PHP] [PHP Manual](http://php.net/manual/en/index.php)
-* [Git] [搬进 Github](http://book.haoduoshipin.com/gitbeijing) 是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。用爱打造。
+* [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
+* [Git] [GitHub] [搬进 Github](http://book.haoduoshipin.com/gitbeijing) 是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。用爱打造。
 * [Git] [Git Reference](http://gitref.org) is meant to be a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the type of operation you may be trying to do, and will present the common options and commands needed to accomplish these common tasks.
 * [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
 * [PHP] [Laravel] Laravel Recipes](http://laravel-recipes.com) organized by category.
