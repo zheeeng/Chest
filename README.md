@@ -117,7 +117,7 @@
 ##Manual
 * [PHP] [PHP Manual](http://php.net/manual/en/index.php)
 * [Laravel 5.1 api](http://laravel.com/api/5.1)
-* [Laravel 4.2 api](http://laravel.com/api/5.1)
+* [Laravel 4.2 api](http://laravel.com/api/4.2)
 
 ##Online Tools
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
