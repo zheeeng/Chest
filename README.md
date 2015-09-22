@@ -17,11 +17,15 @@
 
 * [Communities](#communities)
 
+* [Cool](#cool)
+
 * [Dry Goods](#dry-goods)
 
 * [Explore Webistes](#explore-webistes)
 
 * [Github Repos](#github-repos)
+
+* [Manual](#manual)
 
 * [Online Tools](#online-tools)
 
@@ -34,17 +38,23 @@
 ##Algorithm
 
 ##Application Recommendations
+* [Free] [Productivity] **[Open Source]** [[OS X]](https://github.com/yingDev/Tickeys) [Windows] [[Linux]](https://github.com/BillBillBillBill/Tickeys-linux) [GUI] Instant audio feedback when typing - [Tickeys](http://www.yingdev.com/projects/tickeys). 
+* [Free] [Productivity] **[[Open Source]](https://github.com/yingDev/WGestures)** [windows] [GUI] [WGestures](http://www.yingdev.com/projects/wgestures) - Mouse gesture software run on windows.
+* [Free] [Productivity] **[[Open Source]](https://github.com/tekezo/Karabiner)** [OS X] [GUI] [Karabiner](https://pqrs.org/osx/karabiner)(KeyRemap4MacBook) is a powerful utility for keyboard customization.
+* [Free] [Utilities] **[[Open source]](https://github.com/tatsuhiro-t/aria2)** [CLI] [aria2](http://aria2.sourceforge.net) is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. aria2 can be manipulated via built-in JSON-RPC and XML-RPC interfaces.
+* [Free] [Utilities] **[[Open Source]](https://filezilla-project.org/sourcecode.php)** [OS X] [Windows] [Linux] [FileZilla](https://filezilla-project.org/index.php) is free FTP solution. Both a client and a server are available. **Server only support Windows.**
+* [Free] [Entertainment] **[[Open Source]](https://github.com/niltsh/MPlayerX/tree/sparkle)** [OS X] [MPlayerX](http://mplayerx.org). Simple. Powerful. Beautiful. The media player you must have.
 
 ##Blogs
 * [Ruan Yifeng](http://www.ruanyifeng.com/home.html)'s Personal Website
 * 当然 [王垠](http://www.yinwang.org) 在扯淡
 * [张鑫旭](http://www.zhangxinxu.com) 的个人网站，这里展示了他的生活，他的创意，他的技术。这里有你在其他地方看不到的web前端方面的技术与资源,这里有简单实用的web应用。
-* 统计之都站长 [谢益辉](http://yihui.name/) 的个人主页
+* 统计之都站长 [谢益辉](http://yihui.name) 的个人主页
 * [刘未鹏](http://mindhacks.cn/) 写过10年博客，译过几本技术书籍，发起过一个叫TopLanguage的技术讨论组，业余爱好神经科学和心理学，《暗时间》作者。
 * Learner and Connector - [李笑来](http://xiaolai.li)
-* [阳志平](http://www.yangzhiping.com/)，安人心智集团科学总监，从事大脑科技产品研发与项目孵化。
+* [阳志平](http://www.yangzhiping.com)，安人心智集团科学总监，从事大脑科技产品研发与项目孵化。
 * 土木坛子 - [谭智军](https://tumutanzi.com)的个人网站
-* Peter's Corner - [Peter Wang](http://happypeter.github.io/), an Open Source enthusiast. This site is dedicated to providing information about him and what he does.
+* Peter's Corner - [Peter Wang](http://happypeter.github.io), an Open Source enthusiast. This site is dedicated to providing information about him and what he does.
 * Keep Writing Codes - [刘家财](http://liujiacai.net) - 分享与交流，Java、Clojure、Javascript、Python、算法
 * [Zach Holman](http://zachholman.com) - Built shit at GitHub for awhile. (Former Github employee)
 
@@ -66,16 +76,20 @@
 * [Extension] [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) provides keyboard shortcuts for navigation and control in the spirit of Vim.
 * [Extension] Navigate your browser with [Smooth Gestures PLUS](https://chrome.google.com/webstore/detail/smooth-gestures-plus/kdcjmllhmhnnadianfhhnoefgcdbpdap). Quick and easy navigation of the web with mouse gestures.
 * [Extension] [Remove Google Redirection](https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod?hl=en) prohibits click-tracking, and prevent url redirection when clicks on the result links in Google search page.
-* [Extension] A neater bookmarks tree popup - [Neater Bookmarks](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi).
+* [Extension] **[[Open Source]](https://github.com/evanshultz/neater-bookmarks)** A neater bookmarks tree popup - [Neater Bookmarks](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi).
 * [Extension] [AJAX Debugger](https://chrome.google.com/webstore/detail/ajax-debugger/lgfefckpdealogpcfjdhinecfbcgedam) logs all AJAX activity to the Dev Tools Console, allowing inspection of AJAX calls, and open calls in new tab with all the inputs.
 * [Extension] [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) can extract, edit, and evaluate XPath queries with ease.
-* [Extension] With [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc), easy debugging, profiling and tracing extension for Xdebug.
+* [Extension] **[[Open source]](https://github.com/wrep/xdebug-helper-for-chrome)** With [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc), easy debugging, profiling and tracing extension for Xdebug.
 * [Extension] Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 
 ##Communities
 * [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
 * [卡饭网](http://www.kafan.cn) - 计算机安全,杀毒软件交流中心
+
+##Cool
+* [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
+* [Regular expression] [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 
 ##Dry Goods
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by @Eric Steven Raymond & Rick Moen. You can get [the Traditional Chinese version](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) and [the Simplified Chinese version](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md).
@@ -84,7 +98,6 @@
 * [码农周刊](http://weekly.manong.io) 是一份专为程序员打造的IT技术周刊
 
 ##Explore Webistes
-* [Cool] [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
 * [IT] [稀土掘金](http://gold.xitu.io) 挖掘最优质的互联网技术
 * [IT] [PHP] [简明现代魔法](http://www.nowamagic.net) 其实每个程序员都是魔法师
@@ -96,14 +109,20 @@
 * [IT] [InfoQ](http://www.infoq.com) Facilitating the spread of knowledge and innovation in professional software development.
 * [轻单](https://qdan.me) - 发现一个更轻的世界，以最便捷的方式分享知识，并瞬间获取他人的经验。
 * [IT] [WooYun知识库](http://drops.wooyun.org) - 最严肃的安全原创平台
+* [IT] [TekRevue](http://www.tekrevue.com) - The Best of Tech, Daily
 
 ##Github Repos
 * [github/markup](https://github.com/github/markup) This library is the first step of a journey that every markup file in a repository goes on before it is rendered on GitHub.com.
 
+##Manual
+* [PHP] [PHP Manual](http://php.net/manual/en/index.php)
+* [Laravel 5.1 api](http://laravel.com/api/5.1)
+* [Laravel 4.2 api](http://laravel.com/api/5.1)
+
 ##Online Tools
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
 * With [ASCIIFlow Infinity](http://asciiflow.com) you can draw infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
-* [RegExp] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+* [Regular expression] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [JS] [jsPerf](https://jsperf.com) aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [JS] [JS Bin](http://jsbin.com) is an open source collaborative web development debugging tool.
 * [CSS] [CodePen](http://codepen.io) is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
@@ -133,12 +152,13 @@
 ##Tutorials
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
 * [Linux] 著名的 《[鳥哥的 Linux 私房菜](http://linux.vbird.org)》
-* [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com/) 提供Python, Git, Javascript教程
-* [PHP] [PHP Manual](http://php.net/manual/en/index.php)
+* [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
 * [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
 * [Git] [GitHub] [搬进 Github](http://book.haoduoshipin.com/gitbeijing) 是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。用爱打造。
 * [Git] [Git Reference](http://gitref.org) is meant to be a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the type of operation you may be trying to do, and will present the common options and commands needed to accomplish these common tasks.
 * [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
 * [PHP] [Laravel] Laravel Recipes](http://laravel-recipes.com) organized by category.
 * [DIY] [The DIY Cheapskate Laptop Stand](http://theclosetentrepreneur.com/wp-content/uploads/2008/11/diycheapskatelaptopstand.pdf)
+* [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
+* [CSS] [Create an Apple TV Poster Parallax Effect in CSS3 & jQuery](http://designmodo.com/apple-tv-effect)
         
