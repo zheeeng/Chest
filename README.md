@@ -71,6 +71,7 @@
 * [HTML] [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref)
 * [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
 * Emoji emoticons listed on this [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com) supported on GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings.
+* [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
 
 ##Chrome Extensions & Apps
 * [Extension] **[[Open Source]](https://github.com/marcelduran/yslow)**  [Utilities] [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites.
@@ -89,6 +90,7 @@
 * [Extension] **[[Open source]](https://github.com/wrep/xdebug-helper-for-chrome)** [Utilities]  With [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc), easy debugging, profiling and tracing extension for Xdebug.
 * [Extension] [Productivity]  Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] [Productivity] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
+* [Extension] [Productivity] [Start!](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh) is an alternative start page for Chrome.
 
 ##Communities
 * [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
@@ -127,6 +129,7 @@
 * [PHP] [PHP Manual](http://php.net/manual/en/index.php)
 * [Laravel 5.1 api](http://laravel.com/api/5.1)
 * [Laravel 4.2 api](http://laravel.com/api/4.2)
+* [Sublime Text Unofficial Documentation](http://docs.sublimetext.info/en/latest)
 
 ##Online Tools
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
