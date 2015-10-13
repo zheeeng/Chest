@@ -74,23 +74,27 @@
 * [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
 
 ##Chrome Extensions & Apps
-* [Extension] **[[Open Source]](https://github.com/marcelduran/yslow)**  [Utilities] [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites.
-* [Extension] [Productivity] With no extra effort on your part, [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa) eliminates all the hassle of formatting email. Empowerment through simplicity.
-* [Extension] [Utilities] [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) is a browser extension that uncovers the technologies used on websites. It detects content management systems, eCommerce platforms, web servers, JavaScript frameworks, analytics tools and many more.
+* [App] [Utilities] [Gliffy Diagrams](https://chrome.google.com/webstore/detail/bhmicilclplefnflapjmnngmkkkkpfad) software is designed to make it easy and intuitive for you to create professional quality flowcharts, floor plans, technical drawings and more.
 * [App] [Utilities] [Serverauditor](https://chrome.google.com/webstore/detail/serverauditor-ssh-client/fjcdjmmkgnkgihjnlbgcdamkadlkbmam) is a powerful SSH client that has been developed as a standalone Chrome app. The app is designed and built like a standard SSH client hence there is no proxy for establishing connections. Additionally, it works in offline mode.
 * [App] [Utilities] Supercharge your API workflow with [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)! Build, test, and document your APIs faster. More than a million developers already do.… **Here recommend a more convenient and light old version for [Postman v0.8.16](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm).**
-* [App] **[[Open Source]](https://github.com/yoichiro/chrome_mysql_admin)** [Utilities] [Chrome MySQL Admin](https://chrome.google.com/webstore/detail/chrome-mysql-admin/ndgnpnpakfcdjmpgmcaknimfgcldechn) provides you the administration GUI of MySQL server. It is like phpMyAdmin, Sequel Pro.
+* [App] [Utilities] **[[Open Source]](https://github.com/yoichiro/chrome_mysql_admin)** [Chrome MySQL Admin](https://chrome.google.com/webstore/detail/chrome-mysql-admin/ndgnpnpakfcdjmpgmcaknimfgcldechn) provides you the administration GUI of MySQL server. It is like phpMyAdmin, Sequel Pro.
+* [Extension] [Utilities] **[[Open Source]](https://github.com/marcelduran/yslow)** [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites.
+* [Extension] [Utilities] [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) is a browser extension that uncovers the technologies used on websites. It detects content management systems, eCommerce platforms, web servers, JavaScript frameworks, analytics tools and many more.
 * [Extension] [Productivity] [Cool Clock](https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce) is an extension fully loaded with tons of useful time-related features... But the best part is, it is totally COOL.
-* [Extension] **[[Open Source]](https://github.com/philc/vimium)** [Productivity] [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) provides keyboard shortcuts for navigation and control in the spirit of Vim.
+* [Extension] [Productivity] **[[Open Source]](https://github.com/philc/vimium)** [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) provides keyboard shortcuts for navigation and control in the spirit of Vim. **[cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) is antoher [open source](https://github.com/1995eaton/chromium-vim) and more powerful similar tool.**
 * [Extension] [Productivity] Navigate your browser with [Smooth Gestures PLUS](https://chrome.google.com/webstore/detail/smooth-gestures-plus/kdcjmllhmhnnadianfhhnoefgcdbpdap). Quick and easy navigation of the web with mouse gestures.
 * [Extension] [Productivity] [Remove Google Redirection](https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod?hl=en) prohibits click-tracking, and prevent url redirection when clicks on the result links in Google search page.
-* [Extension] **[[Open Source]](https://github.com/evanshultz/neater-bookmarks)** [Productivity] A neater bookmarks tree popup - [Neater Bookmarks](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi).
-* [Extension] [Utilities]  [AJAX Debugger](https://chrome.google.com/webstore/detail/ajax-debugger/lgfefckpdealogpcfjdhinecfbcgedam) logs all AJAX activity to the Dev Tools Console, allowing inspection of AJAX calls, and open calls in new tab with all the inputs.
+* [Extension] [Productivity] **[[Open Source]](https://github.com/evanshultz/neater-bookmarks)** A neater bookmarks tree popup - [Neater Bookmarks](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi).
+* [Extension] [Utilities] [JS] [AJAX Debugger](https://chrome.google.com/webstore/detail/ajax-debugger/lgfefckpdealogpcfjdhinecfbcgedam) logs all AJAX activity to the Dev Tools Console, allowing inspection of AJAX calls, and open calls in new tab with all the inputs.
 * [Extension] [Utilities]  [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) can extract, edit, and evaluate XPath queries with ease.
-* [Extension] **[[Open source]](https://github.com/wrep/xdebug-helper-for-chrome)** [Utilities]  With [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc), easy debugging, profiling and tracing extension for Xdebug.
-* [Extension] [Productivity]  Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
+* [Extension] [Utilities] **[[Open source]](https://github.com/wrep/xdebug-helper-for-chrome)**  With [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc), easy debugging, profiling and tracing extension for Xdebug.
+* [Extension] [Productivity] [CSS] Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] [Productivity] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 * [Extension] [Productivity] [Start!](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh) is an alternative start page for Chrome.
+* [Extension] [Productivity] **[[Open source]](https://github.com/sciooga/v2ex-plus)** [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb)可能是 v2ex 最好用的扩展
+* [Extension] [Productivity] **[[Open source]](https://github.com/summerblue/github-toc)** [GitHub] [Github TOC](https://chrome.google.com/webstore/detail/github-toc/nalkpgbfaadkpckoadhlkihofnbhfhek) generate table of content for Github readme and Github Wiki.
+* [Extension] [Productivity] **[[Open source]](https://github.com/Sobranier/github-chart)** [GitHub] [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje) is an extension for Github Users.
+It renders an Bar graphs & Pie graphs to show your commits better.
 
 ##Communities
 * [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
@@ -162,6 +166,7 @@
 	and so on...
 * [Mergely](http://www.mergely.com/editor) - Diff online, merge documents.
 * [CSS] "[Can I use](http://caniuse.com)" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+* With [explainshell.com](http://explainshell.com) you can write down a command-line to see the help text that matches each argument
 
 ##Resources
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
