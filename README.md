@@ -74,6 +74,8 @@
 * [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
 * Emoji emoticons listed on this [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com) supported on GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings.
 * [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
+* [iterm2 cheatsheet](https://gist.github.com/helger/3070258)
+* [Oh My Zsh Cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 
 ##Chrome Extensions & Apps
 * [App] [Utilities] [Gliffy Diagrams](https://chrome.google.com/webstore/detail/bhmicilclplefnflapjmnngmkkkkpfad) software is designed to make it easy and intuitive for you to create professional quality flowcharts, floor plans, technical drawings and more.
@@ -174,6 +176,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [IE Dev] Test Microsoft Edge and versions of IE6 through IE11 using [free virtual machines](https://dev.modern.ie/tools/vms) you download and manage locally.
 * [IE Dev] Use [Azure RemoteApp](https://remote.modern.ie) to test your site on IE on Windows 10 Technical Preview from anywhere.
 * Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. [Let's go](http://htmlcolorcodes.com)!
+* Collection of [Oh My Zsh Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) screenshots
 
 ##Tutorials
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
