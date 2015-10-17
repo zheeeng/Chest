@@ -1,7 +1,9 @@
 #Chest
 ---
+*github address:<https://github.com/zheeeng/Chest>*
 
-##Catalog
+
+##Table of Contents
 
 * [Algorithm](#algorithm)
 
@@ -91,8 +93,7 @@
 * [Extension] [Productivity] [CSS] Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] [Productivity] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 * [Extension] [Productivity] [Start!](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh) is an alternative start page for Chrome.
-* [Extension] [Productivity] **[[Open source]](https://github.com/sciooga/v2ex-plus)** [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb)可能是 v2ex 最好用的扩展
-* [Extension] [Productivity] **[[Open source]](https://github.com/summerblue/github-toc)** [GitHub] [Github TOC](https://chrome.google.com/webstore/detail/github-toc/nalkpgbfaadkpckoadhlkihofnbhfhek) generate table of content for Github readme and Github Wiki.
+* [Extension] [Productivity] **[[Open source]](https://github.com/sciooga/v2ex-plus)** [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb) 可能是 v2ex 最好用的扩展。
 * [Extension] [Productivity] **[[Open source]](https://github.com/Sobranier/github-chart)** [GitHub] [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje) is an extension for Github Users.
 It renders an Bar graphs & Pie graphs to show your commits better.
 
