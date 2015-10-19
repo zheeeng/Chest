@@ -176,7 +176,8 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [IE Dev] Test Microsoft Edge and versions of IE6 through IE11 using [free virtual machines](https://dev.modern.ie/tools/vms) you download and manage locally.
 * [IE Dev] Use [Azure RemoteApp](https://remote.modern.ie) to test your site on IE on Windows 10 Technical Preview from anywhere.
 * Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. [Let's go](http://htmlcolorcodes.com)!
-* Collection of [Oh My Zsh Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) screenshots
+* Collection of [Oh My Zsh Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) screenshots.
+* List of useful [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) for developers
 
 ##Tutorials
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
