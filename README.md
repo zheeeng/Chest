@@ -157,6 +157,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Font Squirrel](http://www.fontsquirrel.com), [Web Font Generator](https://www.web-font-generator.com), [Fontie](https://fontie.flowyapps.com) all provide useful online webfont generator.
 * [Hemingway App](http://www.hemingwayapp.com) makes your writing bold and clear.
 * [HTML] Type HTML in [Real-time HTML Editor](http://htmledit.squarefree.com), and it will magically appear in the exhibition frame.
+* [JSONLint](http://jsonlint.com) - The JSON Validator
 * [LaTex] [Create LaTeX tables online](http://www.tablesgenerator.com)
 * [IE Dev] See [how your site renders](https://dev.modern.ie/tools/screenshots) across a selection of common browsers and devices. Powered by BrowserStack.
 * [IE Dev] Run a [quick code scan on any URL](https://dev.modern.ie/tools/staticscan) to check for out-of-date libraries, layout issues, and accessibility.
@@ -171,6 +172,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * With [explainshell.com](http://explainshell.com) you can write down a command-line to see the help text that matches each argument
 
 ##Resources
+* [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [IE Dev] Test Microsoft Edge and versions of IE6 through IE11 using [free virtual machines](https://dev.modern.ie/tools/vms) you download and manage locally.
 * [IE Dev] Use [Azure RemoteApp](https://remote.modern.ie) to test your site on IE on Windows 10 Technical Preview from anywhere.
