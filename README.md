@@ -1,7 +1,6 @@
 #Chest
 *github address:<https://github.com/zheeeng/Chest>*
 
-
 ##Table of Contents
 
 * [Algorithm](#algorithm)
@@ -174,6 +173,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 ##Resources
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
+* [CSS] [css-sans](http://yusugomori.com/projects/css-sans/fonts) include 26 alphabetic letters created by css.
 * [IE Dev] Test Microsoft Edge and versions of IE6 through IE11 using [free virtual machines](https://dev.modern.ie/tools/vms) you download and manage locally.
 * [IE Dev] Use [Azure RemoteApp](https://remote.modern.ie) to test your site on IE on Windows 10 Technical Preview from anywhere.
 * Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. [Let's go](http://htmlcolorcodes.com)!
