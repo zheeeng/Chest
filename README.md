@@ -153,6 +153,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [百度云网盘搜索引擎](http://so.baiduyun.me)
 * [百度脑图（KityMinder](http://naotu.baidu.com) - 控制创意，如此简单
 * [奇云测](http://ce.cloud.360.cn)，免费提供ping检测，get检测，DNS劫持检测和网站打分等服务，努力打造最干净的网站检测平台。**服务范围：中国大陆**
+* [TinyPNG](https://tinypng.com) is used to shrink PNG files. -- Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Font Squirrel](http://www.fontsquirrel.com), [Web Font Generator](https://www.web-font-generator.com), [Fontie](https://fontie.flowyapps.com) all provide useful online webfont generator.
 * [Hemingway App](http://www.hemingwayapp.com) makes your writing bold and clear.
 * [HTML] Type HTML in [Real-time HTML Editor](http://htmledit.squarefree.com), and it will magically appear in the exhibition frame.
