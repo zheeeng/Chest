@@ -172,6 +172,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * With [explainshell.com](http://explainshell.com) you can write down a command-line to see the help text that matches each argument
 
 ##Resources
+* [Git] [Github] [Shields.io](http://shields.io): Quality metadata badges for open source projects.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [CSS] [css-sans](http://yusugomori.com/projects/css-sans/fonts) include 26 alphabetic letters created by css.
