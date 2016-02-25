@@ -173,6 +173,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 
 ##Resources
 * [Git] [Github] [Shields.io](http://shields.io): Quality metadata badges for open source projects.
+* [Logodust](http://logodust.com) - Provide Free Logo Designs For Your Projects, Added Every Tuesday.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [CSS] [css-sans](http://yusugomori.com/projects/css-sans/fonts) include 26 alphabetic letters created by css.
@@ -196,3 +197,5 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
 * [CSS] [Create an Apple TV Poster Parallax Effect in CSS3 & jQuery](http://designmodo.com/apple-tv-effect)
         
+
+
