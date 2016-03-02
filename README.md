@@ -70,6 +70,7 @@
 * [GitHub] A collection of cool hidden and not so hidden features of Git and GitHub. This [GitHub Cheat Sheet](http://git.io/sheet) was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://www.confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 * [HTML] [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref)
 * [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
+* This [page](http://www.restapitutorial.com/httpstatuscodes.html) is created from HTTP status code information found at ietf.org and Wikipedia.
 * Emoji emoticons listed on this [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com) supported on GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings.
 * [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
 * [iterm2 cheatsheet](https://gist.github.com/helger/3070258)
