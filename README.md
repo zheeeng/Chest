@@ -104,7 +104,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 
 ##Cool
 * [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
-* [Regular expression] [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+* [Regex] [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 
 ##Dry Goods
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by @Eric Steven Raymond & Rick Moen. You can get [the Traditional Chinese version](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) and [the Simplified Chinese version](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md).
@@ -140,7 +140,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 ##Online Tools
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
 * With [ASCIIFlow Infinity](http://asciiflow.com) you can draw infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
-* [Regular expression] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+* [Regex] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [JS] [jsPerf](https://jsperf.com) aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [JS] [JS Bin](http://jsbin.com) is an open source collaborative web development debugging tool.
 * [CSS] [CodePen](http://codepen.io) is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
@@ -186,6 +186,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * List of useful [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) for developers
 
 ##Tutorials
+* [Regex] In [Regex Golf](http://regex.alf.nu), the programmer is given two sets of text fragments, and he/she tries to write the shortest possible regular expression which would match all elements of one set, while at the same time not matching any element from the other set.
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
 * [Linux] 著名的 《[鳥哥的 Linux 私房菜](http://linux.vbird.org)》
 * [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
