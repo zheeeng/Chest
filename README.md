@@ -69,7 +69,6 @@
 * [Git] [Git cheat sheet](http://itmyhome.com/git-sheet)
 * [GitHub] A collection of cool hidden and not so hidden features of Git and GitHub. This [GitHub Cheat Sheet](http://git.io/sheet) was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://www.confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 * [HTML] [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref)
-* [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
 * This [page](http://www.restapitutorial.com/httpstatuscodes.html) is created from HTTP status code information found at ietf.org and Wikipedia.
 * Emoji emoticons listed on this [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com) supported on GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings.
 * [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
@@ -178,6 +177,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [CSS] [css-sans](http://yusugomori.com/projects/css-sans/fonts) include 26 alphabetic letters created by css.
+* [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
 * [EasyIcon](http://www.easyicon.net) - Search 500,000+ (PNG,ICO,ICNS) free icons, desktop icons, icons Download.
 * [IE Dev] Test Microsoft Edge and versions of IE6 through IE11 using [free virtual machines](https://dev.modern.ie/tools/vms) you download and manage locally.
 * [IE Dev] Use [Azure RemoteApp](https://remote.modern.ie) to test your site on IE on Windows 10 Technical Preview from anywhere.
