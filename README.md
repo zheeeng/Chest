@@ -137,6 +137,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Sublime Text Unofficial Documentation](http://docs.sublimetext.info/en/latest)
 
 ##Online Tools
+* [HTML] [Nu Html Checker](http://validator.w3.org/nu)  is an ongoing experiment in better HTML checking.
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
 * With [ASCIIFlow Infinity](http://asciiflow.com) you can draw infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
 * [Regex] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
