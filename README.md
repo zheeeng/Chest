@@ -146,7 +146,8 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [JS] [JS Bin](http://jsbin.com) is an open source collaborative web development debugging tool.
 * [CSS] [CodePen](http://codepen.io) is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
 * [CSS] [SassMeister](http://www.sassmeister.com) -- The Sass Playground!
-* [CSS] [CSSDesk](http://www.cssdesk.com) - Online CSS Sandbox
+* [CSS] [CSSDesk](http://www.cssdesk.com) - Online CSS Sandbox.
+* [CSS] Online tool for parameters setting CSS transition-timing-function -- [cubic-bezier](http://cubic-bezier.com).
 * [Cmd Markdown](https://www.zybuluo.com) 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 * 此 [在线 Ping 工具](http://serve.netsh.org/pub/ping-tool) 使用位于美国的服务器帮助你 Ping 得某些网站的 IP 地址，以方便获得正确的 IP 或进行其他事宜。
 * [Compile and Execute your favorite programming languages](http://www.compileonline.com) online
