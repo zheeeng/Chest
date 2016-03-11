@@ -105,6 +105,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
 * [Regex] [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 * [HTML] [Responsive Design bookmarklet](http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet) lets you view any webpage in multiple screen sizes, simulating the viewport of different devices. 
+* [CSS] Check animatable css properties [here](http://leaverou.github.io/animatable).
 
 ##Dry Goods
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by @Eric Steven Raymond & Rick Moen. You can get [the Traditional Chinese version](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) and [the Simplified Chinese version](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md).
