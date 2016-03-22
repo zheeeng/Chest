@@ -74,6 +74,7 @@
 * [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
 * [iterm2 cheatsheet](https://gist.github.com/helger/3070258)
 * [Oh My Zsh Cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
+* [Sublime Text Shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
 
 ##Chrome Extensions & Apps
 * [App] [Utilities] [Gliffy Diagrams](https://chrome.google.com/webstore/detail/bhmicilclplefnflapjmnngmkkkkpfad) software is designed to make it easy and intuitive for you to create professional quality flowcharts, floor plans, technical drawings and more.
@@ -99,7 +100,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 
 ##Communities
 * [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
-* [卡饭网](http://www.kafan.cn) - 计算机安全,杀毒软件交流中心
 
 ##Cool
 * [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
@@ -182,6 +182,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [CSS] [css-sans](http://yusugomori.com/projects/css-sans/fonts) include 26 alphabetic letters created by css.
+* [CSS] [Icon Moon](https://icomoon.io) provide icon fonts & SVG icon sets.
 * [CSS] The complete set of 585 [icons in Font Awesome](http://fortawesome.github.io/Font-Awesome/icons)
 * [EasyIcon](http://www.easyicon.net) - Search 500,000+ (PNG,ICO,ICNS) free icons, desktop icons, icons Download.
 * [IE Dev] Test Microsoft Edge and versions of IE6 through IE11 using [free virtual machines](https://dev.modern.ie/tools/vms) you download and manage locally.
@@ -191,7 +192,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * List of useful [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) for developers
 
 ##Tutorials
-* [HTML] [HTML](http://html5doctor.com) help you implement HTML5.
+* [HTML] [HTML5 Doctor](http://html5doctor.com) help you implement HTML5.
 * [Regex] In [Regex Golf](http://regex.alf.nu), the programmer is given two sets of text fragments, and he/she tries to write the shortest possible regular expression which would match all elements of one set, while at the same time not matching any element from the other set.
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
 * [Linux] 著名的 《[鳥哥的 Linux 私房菜](http://linux.vbird.org)》
