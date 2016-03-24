@@ -64,6 +64,7 @@
 ##Books
 
 ##Cheat Sheets
+* [DevDocs](http://devdocs.io)combines multiple API documentations in a fast, organized, and searchable interface.
 * [PHP] [Laravel] [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca) , Codes , function , methods of laravel framework
 * [Vim] A mobile friendly [VIM cheat sheet](http://vim.rtorr.com)
 * [Git] [Git cheat sheet](http://itmyhome.com/git-sheet)
@@ -192,6 +193,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * List of useful [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) for developers
 
 ##Tutorials
+* [Git] Got 15 minutes and want to learn Git? [tryGit](https://try.github.io) here.
 * [HTML] [HTML5 Doctor](http://html5doctor.com) help you implement HTML5.
 * [Regex] In [Regex Golf](http://regex.alf.nu), the programmer is given two sets of text fragments, and he/she tries to write the shortest possible regular expression which would match all elements of one set, while at the same time not matching any element from the other set.
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
