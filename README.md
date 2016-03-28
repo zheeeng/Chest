@@ -75,7 +75,6 @@
 * [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet)
 * [iterm2 cheatsheet](https://gist.github.com/helger/3070258)
 * [Oh My Zsh Cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
-* [Sublime Text Shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
 
 ##Chrome Extensions & Apps
 * [App] [Utilities] [Gliffy Diagrams](https://chrome.google.com/webstore/detail/bhmicilclplefnflapjmnngmkkkkpfad) software is designed to make it easy and intuitive for you to create professional quality flowcharts, floor plans, technical drawings and more.
