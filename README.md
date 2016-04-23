@@ -65,6 +65,7 @@
 
 ##Cheat Sheets
 * [DevDocs](http://devdocs.io)combines multiple API documentations in a fast, organized, and searchable interface.
+* [JS] [This](http://browsenpm.org/package.json) is an interactive guide for exploring various important properties of the package.json packaging format for node.js applications.
 * [PHP] [Laravel] [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca) , Codes , function , methods of laravel framework
 * [Vim] A mobile friendly [VIM cheat sheet](http://vim.rtorr.com)
 * [Git] [Git cheat sheet](http://itmyhome.com/git-sheet)
