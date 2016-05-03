@@ -181,6 +181,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Git] [Github] [Shields.io](http://shields.io): Quality metadata badges for open source projects.
 * [Logodust](http://logodust.com) - Provide Free Logo Designs For Your Projects, Added Every Tuesday.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
+* [CSS] [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements)
 * [CSS] [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns)
 * [CSS] [css-sans](http://yusugomori.com/projects/css-sans/fonts) include 26 alphabetic letters created by css.
 * [CSS] [Icon Moon](https://icomoon.io) provide icon fonts & SVG icon sets.
