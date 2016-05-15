@@ -103,6 +103,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
 
 ##Cool
+* [PHP] [PuPHPet](https://puphpet.com) - Online GUI configurator for Puppet & Vagrant
 * [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
 * [Regex] [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 * [HTML] [Responsive Design bookmarklet](http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet) lets you view any webpage in multiple screen sizes, simulating the viewport of different devices. 
