@@ -182,6 +182,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * With [explainshell.com](http://explainshell.com) you can write down a command-line to see the help text that matches each argument
 
 ##Resources
+* [Git] [List of Git GUI Clients](https://git-scm.com/downloads/guis).
 * [Git] [Github] [Shields.io](http://shields.io): Quality metadata badges for open source projects.
 * [Logodust](http://logodust.com) - Provide Free Logo Designs For Your Projects, Added Every Tuesday.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
