@@ -25,8 +25,6 @@
 
 * [Github Repos](#github-repos)
 
-* [Manual](#manual)
-
 * [Online Tools](#online-tools)
 
 * [Resources](#resources)
@@ -136,11 +134,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 ##Github Repos
 * [github/markup](https://github.com/github/markup) This library is the first step of a journey that every markup file in a repository goes on before it is rendered on GitHub.com.
 
-##Manual
-* [PHP] [PHP Manual](http://php.net/manual/en/index.php)
-* [Laravel 5.1 api](http://laravel.com/api/5.1)
-* [Laravel 4.2 api](http://laravel.com/api/4.2)
-* [Sublime Text Unofficial Documentation](http://docs.sublimetext.info/en/latest)
 
 ##Online Tools
 * [HTML] [Nu Html Checker](http://validator.w3.org/nu)  is an ongoing experiment in better HTML checking.
