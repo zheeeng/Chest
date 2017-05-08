@@ -51,10 +51,6 @@
 * 当然 [王垠](http://www.yinwang.org) 在扯淡
 * [张鑫旭](http://www.zhangxinxu.com) 的个人网站，这里展示了他的生活，他的创意，他的技术。这里有你在其他地方看不到的 web 前端方面的技术与资源,这里有简单实用的 web 应用。
 * 统计之都站长 [谢益辉](http://yihui.name) 的个人主页
-* [刘未鹏](http://mindhacks.cn/) 写过10年博客，译过几本技术书籍，发起过一个叫TopLanguage的技术讨论组，业余爱好神经科学和心理学，《暗时间》作者。
-* Learner and Connector - [李笑来](http://xiaolai.li)
-* [阳志平](http://www.yangzhiping.com)，安人心智集团科学总监，从事大脑科技产品研发与项目孵化。
-* 土木坛子 - [谭智军](https://tumutanzi.com)的个人网站
 * Peter's Corner - [Peter Wang](http://happypeter.github.io), an Open Source enthusiast. This site is dedicated to providing information about him and what he does.
 * Keep Writing Codes - [刘家财](http://liujiacai.net) - 分享与交流，Java、Clojure、Javascript、Python、算法
 * [Zach Holman](http://zachholman.com) - Built shit at GitHub for awhile. (Former Github employee)
