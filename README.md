@@ -55,7 +55,9 @@
 * Keep Writing Codes - [刘家财](http://liujiacai.net) - 分享与交流，Java、Clojure、Javascript、Python、算法
 * [Zach Holman](http://zachholman.com) - Built shit at GitHub for awhile. (Former Github employee)
 
-##Books
+## Books
+* [Haskell] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) is the the funkiest way to learn Haskell, which is the best functional programming language around.
+
 
 ##Cheat Sheets
 * [DevDocs](http://devdocs.io)combines multiple API documentations in a fast, organized, and searchable interface.
