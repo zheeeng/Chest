@@ -1,7 +1,8 @@
-#Chest
-*github address:<https://github.com/zheeeng/Chest>*
+# Chest
 
-##Table of Contents
+* github address:<https://github.com/zheeeng/Chest>*
+
+## Table of Contents
 
 * [Algorithm](#algorithm)
 
@@ -33,10 +34,11 @@
 
 ---
 
-##Algorithm
+## Algorithm
 
-##Application Recommendations
-* [Productivity] Instant audio feedback when typing - [Tickeys](http://www.yingdev.com/projects/tickeys). 
+## Application Recommendations
+
+* [Productivity] Instant audio feedback when typing - [Tickeys](http://www.yingdev.com/projects/tickeys).
 * [Productivity] [WGestures](http://www.yingdev.com/projects/wgestures) - Mouse gesture software run on windows.
 * [Productivity] [Karabiner](https://pqrs.org/osx/karabiner)(KeyRemap4MacBook) is a powerful utility for keyboard customization.
 * [Utilities] [aria2](http://aria2.sourceforge.net) is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. aria2 can be manipulated via built-in JSON-RPC and XML-RPC interfaces.
@@ -46,7 +48,8 @@
 * [Utilities] [SVN] [Cornerstone](http://www.zennaware.com/cornerstone) is a version control app built on Subversion that makes serious version control. It's both incredibly powerful and super-easy to use.
 * [Utilities] [Git] [Mercurial] [Sourcetree](https://www.sourcetreeapp.com) is a free Git & Mercurial client.
 
-##Blogs
+## Blogs
+
 * [Ruan Yifeng](http://www.ruanyifeng.com/home.html)'s Personal Website
 * 当然 [王垠](http://www.yinwang.org) 在扯淡
 * [张鑫旭](http://www.zhangxinxu.com) 的个人网站，这里展示了他的生活，他的创意，他的技术。这里有你在其他地方看不到的 web 前端方面的技术与资源,这里有简单实用的 web 应用。
@@ -58,8 +61,8 @@
 ## Books
 * [Haskell] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) is the the funkiest way to learn Haskell, which is the best functional programming language around.
 
+## Cheat Sheets
 
-##Cheat Sheets
 * [DevDocs](http://devdocs.io)combines multiple API documentations in a fast, organized, and searchable interface.
 * [JS] [This](http://browsenpm.org/package.json) is an interactive guide for exploring various important properties of the package.json packaging format for node.js applications.
 * [PHP] [Laravel] [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca) , Codes , function , methods of laravel framework
@@ -73,7 +76,8 @@
 * [iterm2 cheatsheet](https://gist.github.com/helger/3070258)
 * [Oh My Zsh Cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 
-##Chrome Extensions & Apps
+## Chrome Extensions & Apps
+
 * [App] [Utilities] [Gliffy Diagrams](https://chrome.google.com/webstore/detail/bhmicilclplefnflapjmnngmkkkkpfad) software is designed to make it easy and intuitive for you to create professional quality flowcharts, floor plans, technical drawings and more.
 * [App] [Utilities] [Serverauditor](https://chrome.google.com/webstore/detail/serverauditor-ssh-client/fjcdjmmkgnkgihjnlbgcdamkadlkbmam) is a powerful SSH client that has been developed as a standalone Chrome app. The app is designed and built like a standard SSH client hence there is no proxy for establishing connections. Additionally, it works in offline mode.
 * [App] [Utilities] Supercharge your API workflow with [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)! Build, test, and document your APIs faster. More than a million developers already do.… **Here recommend a more convenient and light old version for [Postman v0.8.16](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm).**
@@ -91,31 +95,32 @@
 * [Extension] [Productivity] [CSS] Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] [Productivity] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 * [Extension] [Productivity] [Start!](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh) is an alternative start page for Chrome.
-* [Extension] [Productivity] [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb) 可能是 v2ex 最好用的扩展。
+* [Extension] [Productivity] [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb) 可能是 V2EX 最好用的扩展。
 * [Extension] [Productivity] [GitHub] [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje) is an extension for Github Users.
 It renders an Bar graphs & Pie graphs to show your commits better.
 
-##Communities
-* [Article] [TextArea](https://www.textarea.com) - absolutely free community for writer and blogger
+## Communities
 
-##Cool
+## Cool
+
 * [CSS] [One div](http://one-div.com) - The single element HTML/CSS icon database
 * [CSS] [Fileicon.css](http://picturepan2.github.io/fileicon.css) provide pure CSS file icons.
 * [PHP] [PuPHPet](https://puphpet.com) - Online GUI configurator for Puppet & Vagrant
 * [Visualgo](http://visualgo.net) - visualising data structures and algorithms through animation.
 * [Regex] [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
-* [HTML] [Responsive Design bookmarklet](http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet) lets you view any webpage in multiple screen sizes, simulating the viewport of different devices. 
+* [HTML] [Responsive Design bookmarklet](http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet) lets you view any webpage in multiple screen sizes, simulating the viewport of different devices.
 * [CSS] Check animatable css properties [here](http://leaverou.github.io/animatable).
 
-##Dry Goods
+## Dry Goods
+
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by @Eric Steven Raymond & Rick Moen. You can get [the Traditional Chinese version](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) and [the Simplified Chinese version](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md).
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) by Yahoo,
 * [Code Guide](http://codeguide.co) by @mdo concluded some standards for developing flexible, durable, and sustainable HTML and CSS.
-* [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) - 此手册主要实现的目标：代码一致性和最佳实践。通过代码风格的一致性，降低维护代码的成本以及改善多人协作的效率。同时遵守最佳实践，确保页面性能得到最佳优化和高效的代码。
 * [Daniel Miessler's thoughts](https://danielmiessler.com) on technology, philosophy, infosec, politics, reading, writing, design, curiosity, productivity, beauty, and happiness.
 * [码农周刊](http://weekly.manong.io) 是一份专为程序员打造的IT技术周刊
 
-##Explore Webistes
+## Explore Webistes
+
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
 * [IT] [稀土掘金](http://gold.xitu.io) 挖掘最优质的互联网技术
 * [IT] [PHP] [简明现代魔法](http://www.nowamagic.net) 其实每个程序员都是魔法师
@@ -130,10 +135,11 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [IT] [TekRevue](http://www.tekrevue.com) - The Best of Tech, Daily
 
 ##Github Repos
+
 * [github/markup](https://github.com/github/markup) This library is the first step of a journey that every markup file in a repository goes on before it is rendered on GitHub.com.
 
+## Online Tools
 
-##Online Tools
 * [HTML] [Nu Html Checker](http://validator.w3.org/nu)  is an ongoing experiment in better HTML checking.
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
 * [draw.io](https://www.draw.io) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
@@ -163,17 +169,18 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [LaTex] [Create LaTeX tables online](http://www.tablesgenerator.com)
 * [IE Dev] See [how your site renders](https://dev.modern.ie/tools/screenshots) across a selection of common browsers and devices. Powered by BrowserStack.
 * [IE Dev] Run a [quick code scan on any URL](https://dev.modern.ie/tools/staticscan) to check for out-of-date libraries, layout issues, and accessibility.
-* [HTML] W3C's easy-to-use [Markup Validation Service](http://validator.w3.org), based on SGML and XML parsers. This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc. **If you wish to validate specific content such as RSS/Atom feeds or CSS stylesheets, MobileOK content, or to find broken links, there are [other validators and tools](http://www.w3.org/developers/tools) available.**  
+* [HTML] W3C's easy-to-use [Markup Validation Service](http://validator.w3.org), based on SGML and XML parsers. This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc. **If you wish to validate specific content such as RSS/Atom feeds or CSS stylesheets, MobileOK content, or to find broken links, there are [other validators and tools](http://www.w3.org/developers/tools) available.**
 	* [CSS Validation Service](https://jigsaw.w3.org/css-validator)
 	* [Link Checker](https://validator.w3.org/checklink)
 	* [RSS Feed Validation Service](https://validator.w3.org/feed)
-	* [Mobile Checker](https://validator.w3.org/mobile-alpha)  
+	* [Mobile Checker](https://validator.w3.org/mobile-alpha)
 	and so on...
 * [Mergely](http://www.mergely.com/editor) - Diff online, merge documents.
 * [CSS] "[Can I use](http://caniuse.com)" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * With [explainshell.com](http://explainshell.com) you can write down a command-line to see the help text that matches each argument
 
-##Resources
+## Resources
+
 * [jekyllthemes.io](http://jekyllthemes.io) provide you premium & free Jekyll themes for your blog or website.
 * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn)
 * [Github] [GitHub Logos and Usage](https://github.com/logos)
@@ -193,7 +200,8 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * Collection of [Oh My Zsh Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) screenshots.
 * List of useful [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) for developers
 
-##Tutorials
+## Tutorials
+
 * [Git] Got 15 minutes and want to learn Git? [tryGit](https://try.github.io) here.
 * [Git] [Learn Git Branching](http://pcottle.github.io/learnGitBranching) help developers understand git through the power of visualization.
 * [HTML] [HTML5 Doctor](http://html5doctor.com) help you implement HTML5.
@@ -209,6 +217,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [DIY] [The DIY Cheapskate Laptop Stand](http://theclosetentrepreneur.com/wp-content/uploads/2008/11/diycheapskatelaptopstand.pdf)
 * [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
 * [CSS] [Create an Apple TV Poster Parallax Effect in CSS3 & jQuery](http://designmodo.com/apple-tv-effect)
-        
+
 
 
