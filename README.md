@@ -57,6 +57,7 @@
 * Peter's Corner - [Peter Wang](http://happypeter.github.io), an Open Source enthusiast. This site is dedicated to providing information about him and what he does.
 * Keep Writing Codes - [刘家财](http://liujiacai.net) - 分享与交流，Java、Clojure、Javascript、Python、算法
 * [Zach Holman](http://zachholman.com) - Built shit at GitHub for awhile. (Former Github employee)
+* [2ality](http://www.2ality.com) – JavaScript and more
 
 ## Books
 * [Haskell] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) is the the funkiest way to learn Haskell, which is the best functional programming language around.
