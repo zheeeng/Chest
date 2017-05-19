@@ -180,7 +180,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 
 ## Resources
 
-* [jekyllthemes.io](http://jekyllthemes.io) provide you premium & free Jekyll themes for your blog or website.
 * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn)
 * [Github] [GitHub Logos and Usage](https://github.com/logos)
 * [Git] [List of Git GUI Clients](https://git-scm.com/downloads/guis).
