@@ -198,6 +198,10 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * Collection of [Oh My Zsh Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) screenshots.
 * List of useful [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) for developers
 
+## Reference
+
+* [HTTP] [Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
+
 ## Tutorials
 
 * [Git] Got 15 minutes and want to learn Git? [tryGit](https://try.github.io) here.
