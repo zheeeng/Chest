@@ -202,6 +202,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 ## Reference
 
 * [HTTP] [Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
+* [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ## Tutorials
 
