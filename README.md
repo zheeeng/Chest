@@ -144,6 +144,7 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 
 ## Online Tools
 
+* [JS] [Prettier playground](https://prettier.io/playground/) prettify your codes.
 * [HTML] [Nu Html Checker](http://validator.w3.org/nu)  is an ongoing experiment in better HTML checking.
 * With [ProcessOn](https://www.processon.com)  it's surprisingly easy to instantly create professional diagrams online.
 * [draw.io](https://www.draw.io) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
