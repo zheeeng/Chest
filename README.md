@@ -217,7 +217,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
 * [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
 * [Git] [GitHub] [搬进 Github](http://book.haoduoshipin.com/gitbeijing) 是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。用爱打造。
-* [Git] [Git Reference](http://gitref.org) is meant to be a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the type of operation you may be trying to do, and will present the common options and commands needed to accomplish these common tasks.
 * [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
 * [PHP] [Laravel] Laravel Recipes](http://laravel-recipes.com) organized by category.
 * [DIY] [The DIY Cheapskate Laptop Stand](http://theclosetentrepreneur.com/wp-content/uploads/2008/11/diycheapskatelaptopstand.pdf)
