@@ -216,7 +216,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [Linux] 著名的 《[鳥哥的 Linux 私房菜](http://linux.vbird.org)》
 * [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
 * [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
-* [Git] [GitHub] [搬进 Github](http://book.haoduoshipin.com/gitbeijing) 是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。用爱打造。
 * [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
 * [PHP] [Laravel] Laravel Recipes](http://laravel-recipes.com) organized by category.
 * [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
