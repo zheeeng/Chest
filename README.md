@@ -219,7 +219,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
 * [PHP] [Laravel] Laravel Recipes](http://laravel-recipes.com) organized by category.
 * [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
-* [CSS] [Create an Apple TV Poster Parallax Effect in CSS3 & jQuery](http://designmodo.com/apple-tv-effect)
 
 
 
