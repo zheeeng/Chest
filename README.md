@@ -126,7 +126,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
 * [IT] [稀土掘金](http://gold.xitu.io) 挖掘最优质的互联网技术
-* [IT] [PHP] [简明现代魔法](http://www.nowamagic.net) 其实每个程序员都是魔法师
 * [IT] [Solidot奇客](http://www.solidot.org) 的资讯，重要的东西
 * [IT] [伯乐在线](http://www.jobbole.com) 立志做最专业的IT互联网职业社区
 * [IT] [CSDN](http://www.csdn.net) 是中国最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
