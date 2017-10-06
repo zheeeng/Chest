@@ -164,8 +164,6 @@ It renders an Bar graphs & Pie graphs to show your commits better.
 * Get [Lorem Ipsum](http://www.lipsum.com) from here.
 * [CSS] Generate pure CSS3 [On/Off Flipswitches](https://proto.io/freebies/onoff) with animated transitions.
 * [CSS] With [SpritePad](http://spritepad.wearekiss.com) you can create your CSS sprites within ~~minutes~~ seconds. Simply drag & drop your images and have them immediately available as one PNG sprite + CSS code. No fiddling in Photoshop, no manual assignment of CSS styles. **Tip:You can change the color of the canvas by your browser's Inspect Element function.**
-* [奇云测](http://ce.cloud.360.cn)，免费提供ping检测，get检测，DNS劫持检测和网站打分等服务，努力打造最干净的网站检测平台。**服务范围：中国大陆**
-* [TinyPNG](https://tinypng.com) is used to shrink PNG files. -- Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Font Squirrel](http://www.fontsquirrel.com), [Web Font Generator](https://www.web-font-generator.com), [Fontie](https://fontie.flowyapps.com) all provide useful online webfont generator.
 * [LaTex] [Create LaTeX tables online](http://www.tablesgenerator.com)
 * [IE Dev] See [how your site renders](https://dev.modern.ie/tools/screenshots) across a selection of common browsers and devices. Powered by BrowserStack.
