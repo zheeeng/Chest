@@ -60,6 +60,7 @@
 * [2ality](http://www.2ality.com) – JavaScript and more
 
 ## Books
+
 * [Haskell] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) is the the funkiest way to learn Haskell, which is the best functional programming language around.
 
 ## Cheat Sheets
