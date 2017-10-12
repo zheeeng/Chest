@@ -92,7 +92,6 @@
 * [Extension] [Productivity] A neater bookmarks tree popup - [Neater Bookmarks](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi).
 * [Extension] [Utilities] [JS] [AJAX Debugger](https://chrome.google.com/webstore/detail/ajax-debugger/lgfefckpdealogpcfjdhinecfbcgedam) logs all AJAX activity to the Dev Tools Console, allowing inspection of AJAX calls, and open calls in new tab with all the inputs.
 * [Extension] [Utilities]  [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) can extract, edit, and evaluate XPath queries with ease.
-* [Extension] [Utilities] With [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc), easy debugging, profiling and tracing extension for Xdebug.
 * [Extension] [Productivity] [CSS] Restyle the web with [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe), a user styles manager. Stylish lets you easily install themes and skins for many popular sites.
 * [Extension] [Productivity] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 * [Extension] [Productivity] [Start!](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh) is an alternative start page for Chrome.
