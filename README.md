@@ -96,8 +96,7 @@
 * [Extension] [Productivity] Too many tabs? With [Stash](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck), batch save, quickly stash, easily recover.
 * [Extension] [Productivity] [Start!](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh) is an alternative start page for Chrome.
 * [Extension] [Productivity] [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/limfkkkgjbcfmfhkclkohdhddfngakhb) 可能是 V2EX 最好用的扩展。
-* [Extension] [Productivity] [GitHub] [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje) is an extension for Github Users.
-It renders an Bar graphs & Pie graphs to show your commits better.
+* [Extension] [Productivity] [GitHub] [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje) is an extension for Github Users. It renders an Bar graphs & Pie graphs to show your commits better.
 
 ## Communities
 
