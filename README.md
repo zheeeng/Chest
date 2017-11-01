@@ -200,6 +200,7 @@
 * [HTTP] [Hypertext Transfer Protocol -- HTTP/1.1 RFC 2616](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Mobile Device Metrics table](https://material.io/devices/)
+* [HTML5 UP](https://html5up.net/) contains responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.
 
 ## Tutorials
 
