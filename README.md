@@ -176,6 +176,7 @@
 
 ## Resources
 
+* [ionicons](http://ionicons.com/)
 * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn)
 * [Github] [GitHub Logos and Usage](https://github.com/logos)
 * [Git] [List of Git GUI Clients](https://git-scm.com/downloads/guis).
