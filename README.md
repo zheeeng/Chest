@@ -63,6 +63,8 @@
 
 * [Haskell] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) is the the funkiest way to learn Haskell, which is the best functional programming language around.
 * [Network] [网络基本功系列](https://www.gitbook.com/book/wizardforcel/network-basic/details)
+* [Web] [那些年我们一起学XSS](https://wizardforcel.gitbooks.io/xss-naxienian/content/)
+
 ## Cheat Sheets
 
 * [DevDocs](http://devdocs.io)combines multiple API documentations in a fast, organized, and searchable interface.
