@@ -151,11 +151,8 @@
 * [draw.io](https://www.draw.io) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 * With [ASCIIFlow Infinity](http://asciiflow.com) you can draw infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
 * [Regex] [RegExr](http://www.regexr.com) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-* [JS] [jsPerf](https://jsperf.com) aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
-* [JS] [JS Bin](http://jsbin.com) is an open source collaborative web development debugging tool.
 * [CSS] [CSS Triggers](https://csstriggers.com) is for reference what css properties trigger re-layout and re-paint.
 * [CSS] [W3C DOM Compatibility - CSS Object Model View](https://www.quirksmode.org/dom/w3c_cssom.html).
-* [CSS] [CodePen](http://codepen.io) is an HTML, CSS, and JavaScript code editor in your browser with instant previews.
 * [CSS] Online tool for parameters setting CSS transition-timing-function -- [cubic-bezier](http://cubic-bezier.com).
 * [Cmd Markdown](https://www.zybuluo.com) 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 * 此 [在线 Ping 工具](http://serve.netsh.org/pub/ping-tool) 使用位于美国的服务器帮助你 Ping 得某些网站的 IP 地址，以方便获得正确的 IP 或进行其他事宜。
