@@ -212,8 +212,6 @@
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
 * [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
 * [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
-* [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
-* [PHP] [Laravel] Laravel Recipes](http://laravel-recipes.com) organized by category.
 * [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
 
 
