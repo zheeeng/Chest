@@ -210,7 +210,6 @@
 * [HTML] [HTML5 Doctor](http://html5doctor.com) help you implement HTML5.
 * [Regex] In [Regex Golf](http://regex.alf.nu), the programmer is given two sets of text fragments, and he/she tries to write the shortest possible regular expression which would match all elements of one set, while at the same time not matching any element from the other set.
 * [Linux] [The Linux Command Line](http://linuxcommand.org) by William Shotts and [the Chinese version](http://billie66.github.io/TLCL/index.html) by 好奇猫团队.
-* [Linux] 著名的 《[鳥哥的 Linux 私房菜](http://linux.vbird.org)》
 * [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
 * [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
 * [PHP] [Laravel] [Laracasts](https://laracasts.com) - The Best Laravel and PHP Screencasts.
