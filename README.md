@@ -182,7 +182,6 @@
 * [ionicons](http://ionicons.com/)
 * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn)
 * [Github] [GitHub Logos and Usage](https://github.com/logos)
-* [Git] [List of Git GUI Clients](https://git-scm.com/downloads/guis).
 * [Git] [Github] [Shields.io](http://shields.io): Quality metadata badges for open source projects.
 * [Logodust](http://logodust.com) - Provide Free Logo Designs For Your Projects, Added Every Tuesday.
 * [Linux] Linux Packages Search - [pkgs.org](http://pkgs.org)
