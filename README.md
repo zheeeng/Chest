@@ -174,7 +174,6 @@
 	* [Mobile Checker](https://validator.w3.org/mobile-alpha)
 	and so on...
 * [Mergely](http://www.mergely.com/editor) - Diff online, merge documents.
-* [CSS] "[Can I use](http://caniuse.com)" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * With [explainshell.com](http://explainshell.com) you can write down a command-line to see the help text that matches each argument
 
 ## Resources
@@ -213,6 +212,5 @@
 * [Python] [Git] [JS] [廖雪峰的官方网站](http://www.liaoxuefeng.com) 提供Python, Git, Javascript教程
 * [Git] Learn [the basics of common Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) used by enterprise teams and assess their ability to fit your individual needs in this Atlassian Git tutorial.
 * [Git] [Getting Git Right](https://www.atlassian.com/git), with tutorials, news and tips.
-
 
 
