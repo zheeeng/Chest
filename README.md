@@ -125,14 +125,6 @@
 ## Explore Webistes
 
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
-* [IT] [稀土掘金](http://gold.xitu.io) 挖掘最优质的互联网技术
-* [IT] [Solidot奇客](http://www.solidot.org) 的资讯，重要的东西
-* [IT] [伯乐在线](http://www.jobbole.com) 立志做最专业的IT互联网职业社区
-* [IT] [CSDN](http://www.csdn.net) 是中国最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
-* [IT] [Linux] [Linux中国](http://linux.cn) 是一家创立于2003年的国内开源社区，主要关注方向在 Linux 推广、Linux 技术研究、Linux 业界事件的传播。Linux 中国包括网站、微博、微信和邮件列表等平台
-* [IT] [开源中国 ](http://www.oschina.net) 是目前中国最大的开源技术社区
-* [IT] [InfoQ](http://www.infoq.com) Facilitating the spread of knowledge and innovation in professional software development.
-* [轻单](https://qdan.me) - 发现一个更轻的世界，以最便捷的方式分享知识，并瞬间获取他人的经验。
 * [IT] [WooYun知识库](http://drops.wooyun.org) - 最严肃的安全原创平台
 * [IT] [TekRevue](http://www.tekrevue.com) - The Best of Tech, Daily
 
