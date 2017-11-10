@@ -137,6 +137,7 @@
 
 ## Online Tools
 
+* [CSS] [Sprite Cow](http://www.spritecow.com/) - Generate CSS for sprite sheets
 * [CSS] [What CSS to prefix?](http://shouldiprefix.com/)
 * [JS] [UA Parser](https://faisalman.github.io/ua-parser-js/) provide user agent parsing online and JS codes.
 * [JS] [Prettier playground](https://prettier.io/playground/) prettify your codes.
