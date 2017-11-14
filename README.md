@@ -138,6 +138,7 @@
 
 ## Online Tools
 
+* [httpbin](https://httpbin.org/) is a HTTP Request & Response Service
 * [CSS] [Sprite Cow](http://www.spritecow.com/) - Generate CSS for sprite sheets
 * [CSS] [What CSS to prefix?](http://shouldiprefix.com/)
 * [JS] [UA Parser](https://faisalman.github.io/ua-parser-js/) provide user agent parsing online and JS codes.
