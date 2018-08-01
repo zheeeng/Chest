@@ -22,7 +22,7 @@
 
 * [Dry Goods](#dry-goods)
 
-* [Explore Webistes](#explore-webistes)
+* [Explore Websites](#explore-websites)
 
 * [Github Repos](#github-repos)
 
@@ -124,7 +124,7 @@
 * [Daniel Miessler's thoughts](https://danielmiessler.com) on technology, philosophy, infosec, politics, reading, writing, design, curiosity, productivity, beauty, and happiness.
 * [码农周刊](http://weekly.manong.io) 是一份专为程序员打造的IT技术周刊
 
-## Explore Webistes
+## Explore Websites
 
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
 * [IT] [WooYun知识库](http://drops.wooyun.org) - 最严肃的安全原创平台
