@@ -50,7 +50,7 @@
 
 ## Blogs
 
-* [Ruan Yifeng](http://www.ruanyifeng.com/home.html)'s Personal Website
+* [阮一峰](http://www.ruanyifeng.com/home.html)'s Personal Website
 * 当然 [王垠](http://www.yinwang.org) 在扯淡
 * [张鑫旭](http://www.zhangxinxu.com) 的个人网站，这里展示了他的生活，他的创意，他的技术。这里有你在其他地方看不到的 web 前端方面的技术与资源,这里有简单实用的 web 应用。
 * 统计之都站长 [谢益辉](http://yihui.name) 的个人主页
