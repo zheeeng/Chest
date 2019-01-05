@@ -67,6 +67,7 @@
 
 ## Cheat Sheets
 
+* [Network] [httpstatuses.com](https://httpstatuses.com/) is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
 * [DevDocs](http://devdocs.io)combines multiple API documentations in a fast, organized, and searchable interface.
 * [JS] [This](http://browsenpm.org/package.json) is an interactive guide for exploring various important properties of the package.json packaging format for node.js applications.
 * [PHP] [Laravel] [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca) , Codes , function , methods of laravel framework
