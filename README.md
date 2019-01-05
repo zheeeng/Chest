@@ -84,12 +84,10 @@
 
 * [App] [Utilities] [Gliffy Diagrams](https://chrome.google.com/webstore/detail/bhmicilclplefnflapjmnngmkkkkpfad) software is designed to make it easy and intuitive for you to create professional quality flowcharts, floor plans, technical drawings and more.
 * [App] [Utilities] [Serverauditor](https://chrome.google.com/webstore/detail/serverauditor-ssh-client/fjcdjmmkgnkgihjnlbgcdamkadlkbmam) is a powerful SSH client that has been developed as a standalone Chrome app. The app is designed and built like a standard SSH client hence there is no proxy for establishing connections. Additionally, it works in offline mode.
-* [App] [Utilities] Supercharge your API workflow with [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)! Build, test, and document your APIs faster. More than a million developers already do.… **Here recommend a more convenient and light old version for [Postman v0.8.16](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm).**
+* [App] [Utilities] Supercharge your API workflow with [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)! Build, test, and document your APIs faster. More than a million developers already do.…
 * [Extension] [Utilities] [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites.
 * [Extension] [Utilities] [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) is a browser extension that uncovers the technologies used on websites. It detects content management systems, eCommerce platforms, web servers, JavaScript frameworks, analytics tools and many more.
 * [Extension] [Productivity] [Cool Clock](https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce) is an extension fully loaded with tons of useful time-related features... But the best part is, it is totally COOL.
-* [Extension] [Productivity] [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) provides keyboard shortcuts for navigation and control in the spirit of Vim. **[cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) is antoher open source and more powerful similar tool.**
-* [Extension] [Productivity] Navigate your browser with [Smooth Gestures PLUS](https://chrome.google.com/webstore/detail/smooth-gestures-plus/kdcjmllhmhnnadianfhhnoefgcdbpdap). Quick and easy navigation of the web with mouse gestures.
 * [Extension] [Productivity] [Remove Google Redirection](https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod?hl=en) prohibits click-tracking, and prevent url redirection when clicks on the result links in Google search page.
 * [Extension] [Productivity] A neater bookmarks tree popup - [Neater Bookmarks](https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi).
 * [Extension] [Utilities]  [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) can extract, edit, and evaluate XPath queries with ease.
@@ -128,12 +126,10 @@
 
 * [Record] [Intellectual work](https://nfil.es/U9QDwH) by tech giants: Bill Gates, Steve Jobs, Google/Baidu founders ...
 * [IT] [WooYun知识库](http://drops.wooyun.org) - 最严肃的安全原创平台
-* [IT] [TekRevue](http://www.tekrevue.com) - The Best of Tech, Daily
 
 ##Github Repos
 
 * [github/markup](https://github.com/github/markup) This library is the first step of a journey that every markup file in a repository goes on before it is rendered on GitHub.com.
-* [Carbon](https://github.com/dawnlabs/carbon) create and share beautiful images of your source code.
 
 ## Online Tools
 
